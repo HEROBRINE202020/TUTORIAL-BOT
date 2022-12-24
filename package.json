@@ -1,0 +1,22 @@
+{
+  "name": "v14",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "bot"
+  },
+  "keywords": [
+    "keu"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}

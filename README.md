@@ -1,0 +1,1 @@
+SCRIVI NEL CMD O NEL TERMINALE "npm i" per scaricare già automaticamente tutti i pacchetti.
